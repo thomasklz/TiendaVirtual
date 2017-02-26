@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bdCarritoComprasModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="bdCarritoComprasModelStoreContainer">
+    <EntitySet Name="Pedido" EntityType="bdCarritoComprasModel.Store.Pedido" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Producto" EntityType="bdCarritoComprasModel.Store.Producto" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="Id_Producto" Association="bdCarritoComprasModel.Store.Id_Producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="Pedido" EntitySet="Pedido" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Pedido">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Id_Producto" Type="int" />
+    <Property Name="Total" Type="float" />
+    <Property Name="Usuario" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Cantidad" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Precio" Type="float" Nullable="false" />
+  </EntityType>
+  <Association Name="Id_Producto">
+    <End Role="Producto" Type="bdCarritoComprasModel.Store.Producto" Multiplicity="0..1" />
+    <End Role="Pedido" Type="bdCarritoComprasModel.Store.Pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Pedido">
+        <PropertyRef Name="Id_Producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

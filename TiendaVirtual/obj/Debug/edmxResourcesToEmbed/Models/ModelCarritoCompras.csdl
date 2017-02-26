@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bdCarritoComprasModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="bdCarritoComprasEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Pedidoes" EntityType="bdCarritoComprasModel.Pedido" />
+    <EntitySet Name="Productoes" EntityType="bdCarritoComprasModel.Producto" />
+    <AssociationSet Name="Id_Producto" Association="bdCarritoComprasModel.Id_Producto">
+      <End Role="Producto" EntitySet="Productoes" />
+      <End Role="Pedido" EntitySet="Pedidoes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Pedido">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Id_Producto" Type="Int32" />
+    <Property Name="Total" Type="Double" />
+    <Property Name="Usuario" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <NavigationProperty Name="Producto" Relationship="bdCarritoComprasModel.Id_Producto" FromRole="Pedido" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Cantidad" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Precio" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Pedidoes" Relationship="bdCarritoComprasModel.Id_Producto" FromRole="Producto" ToRole="Pedido" />
+  </EntityType>
+  <Association Name="Id_Producto">
+    <End Role="Producto" Type="bdCarritoComprasModel.Producto" Multiplicity="0..1" />
+    <End Role="Pedido" Type="bdCarritoComprasModel.Pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Pedido">
+        <PropertyRef Name="Id_Producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

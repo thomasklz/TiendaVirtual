@@ -5,10 +5,8 @@
 </asp:Content>
 
 <asp:Content ID="indexFeatured" ContentPlaceHolderID="FeaturedContent" runat="server">
-    
-
+ 
 <img src="Images/banner1.jpg" />
-
 
 </asp:Content>
 

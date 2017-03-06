@@ -61,3 +61,200 @@ c:\users\pipo\documents\visual studio 2012\Projects\TiendaVirtual\TiendaVirtual\
 c:\users\pipo\documents\visual studio 2012\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
 c:\users\pipo\documents\visual studio 2012\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.dll
 c:\users\pipo\documents\visual studio 2012\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+C:\Users\Pipo\Documents\Visual Studio 2012\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+C:\Users\Pipo\Documents\Visual Studio 2012\Projects\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.pdb
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\Antlr3.Runtime.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.Core.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\EntityFramework.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Optimization.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\WebGrease.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\WebMatrix.Data.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\WebMatrix.WebData.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\EntityFramework.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\WebMatrix.Data.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\WebMatrix.WebData.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.Core.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\EntityFramework.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Razor.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.dll
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.pdb
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\Antlr3.Runtime.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.Core.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\EntityFramework.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Optimization.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\WebGrease.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\WebMatrix.Data.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\WebMatrix.WebData.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\EntityFramework.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\WebMatrix.Data.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\WebMatrix.WebData.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.Core.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\EntityFramework.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Razor.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.dll
+C:\Users\Pipo\Desktop\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb
+C:\Users\Pipo\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\TiendaVirtual.pdb
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\Antlr3.Runtime.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.Core.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\EntityFramework.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Optimization.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\WebGrease.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\WebMatrix.Data.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\WebMatrix.WebData.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\EntityFramework.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\Newtonsoft.Json.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Net.Http.Formatting.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Helpers.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Http.WebHost.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Mvc.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.Razor.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\WebMatrix.Data.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\WebMatrix.WebData.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.Core.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\EntityFramework.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.Razor.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csprojResolveAssemblyReference.cache
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.Properties.Resources.resources
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.csproj.GenerateResource.Cache
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.dll
+C:\Users\Pipo\Desktop\Nueva carpeta (2)\Nueva carpeta\TiendaVirtual\TiendaVirtual\obj\Debug\TiendaVirtual.pdb

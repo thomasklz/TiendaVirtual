@@ -24,8 +24,8 @@
     </Key>
     <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
     <Property Name="Nombre" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
-    <Property Name="Cantidad" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
-    <Property Name="Precio" Type="Double" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" />
+    <Property Name="Precio" Type="Double" />
     <NavigationProperty Name="Pedidoes" Relationship="bdCarritoComprasModel.Id_Producto" FromRole="Producto" ToRole="Pedido" />
   </EntityType>
   <Association Name="Id_Producto">

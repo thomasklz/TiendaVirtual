@@ -21,7 +21,7 @@ namespace TiendaVirtual.Models
     
         public int Id { get; set; }
         public string Nombre { get; set; }
-        public string Cantidad { get; set; }
+        public int Cantidad { get; set; }
         public double Precio { get; set; }
     
         public virtual ICollection<Pedido> Pedidoes { get; set; }

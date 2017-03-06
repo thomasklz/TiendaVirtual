@@ -37,7 +37,13 @@ namespace TiendaVirtual.Controllers
             {
             if (ModelState.IsValid && WebSecurity.Login (model.UserName, model.Password, persistCookie: model.RememberMe))
                 {
-                return RedirectToLocal (returnUrl);
+                if (model.UserName == "Thomas") {
+                     return RedirectToAction ("Index", "Producto");
+                    }
+                else
+                    {
+                    return RedirectToAction ("Index", "Carrito");
+                    }
                 }
 
             // Si llegamos a este punto, es que se ha producido un error y volvemos a mostrar el formulario
@@ -81,7 +87,7 @@ namespace TiendaVirtual.Controllers
                     {
                     WebSecurity.CreateUserAndAccount (model.UserName, model.Password);
                     WebSecurity.Login (model.UserName, model.Password);
-                    return RedirectToAction ("Index", "Home");
+                    return RedirectToAction ("Index", "Carrito");
                     }
                 catch (MembershipCreateUserException e)
                     {

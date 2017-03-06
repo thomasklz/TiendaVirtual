@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="bdCarritoComprasModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="bdCarritoComprasModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityContainer Name="bdCarritoComprasModelStoreContainer">
           <EntitySet Name="Pedido" EntityType="bdCarritoComprasModel.Store.Pedido" store:Type="Tables" Schema="dbo" />
           <EntitySet Name="Producto" EntityType="bdCarritoComprasModel.Store.Producto" store:Type="Tables" Schema="dbo" />
@@ -28,8 +28,8 @@
           </Key>
           <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
           <Property Name="Nombre" Type="nvarchar" Nullable="false" MaxLength="50" />
-          <Property Name="Cantidad" Type="nvarchar" Nullable="false" MaxLength="50" />
-          <Property Name="Precio" Type="float" Nullable="false" />
+          <Property Name="Cantidad" Type="int" />
+          <Property Name="Precio" Type="float" />
         </EntityType>
         <Association Name="Id_Producto">
           <End Role="Producto" Type="bdCarritoComprasModel.Store.Producto" Multiplicity="0..1" />
@@ -43,8 +43,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="bdCarritoComprasModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -72,8 +71,8 @@
           </Key>
           <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
           <Property Name="Nombre" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
-          <Property Name="Cantidad" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
-          <Property Name="Precio" Type="Double" Nullable="false" />
+          <Property Name="Cantidad" Type="Int32" />
+          <Property Name="Precio" Type="Double" />
           <NavigationProperty Name="Pedidoes" Relationship="bdCarritoComprasModel.Id_Producto" FromRole="Producto" ToRole="Pedido" />
         </EntityType>
         <Association Name="Id_Producto">

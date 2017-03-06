@@ -23,8 +23,8 @@
     </Key>
     <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
     <Property Name="Nombre" Type="nvarchar" Nullable="false" MaxLength="50" />
-    <Property Name="Cantidad" Type="nvarchar" Nullable="false" MaxLength="50" />
-    <Property Name="Precio" Type="float" Nullable="false" />
+    <Property Name="Cantidad" Type="int" />
+    <Property Name="Precio" Type="float" />
   </EntityType>
   <Association Name="Id_Producto">
     <End Role="Producto" Type="bdCarritoComprasModel.Store.Producto" Multiplicity="0..1" />

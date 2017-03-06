@@ -7,51 +7,52 @@
    
        <br><br><br>
    
-        <div class="btn btn-primary">
-            <i class="icon-white icon-list-alt"></i>  <%: Html.ActionLink("Agregar Nuevo", "Create") %>
-
+        <div class="btn btn-default bnt-sm">
+           <%: Html.ActionLink ("Ir a Carrito ", "listaCarrito")%>
         </div>
         <br><br>
     
     <table class="table table-hover">
         <tr>
+             
             <th WIDTH="40%">
                 <%: Html.DisplayNameFor(model => model.Nombre) %>
             </th>
              <th style="text-align:center";>
             
             </th>
-             <th style="text-align:center";>
-                <%: Html.DisplayNameFor(model => model.Cantidad) %>
+            <th style="text-align:center";>
+               Disponibles
             </th>
-              <th style="text-align:center";>
+            <th style="text-align:center";>
                 <%: Html.DisplayNameFor(model => model.Precio) %>
             </th>
-               <th >
-                Acciones
-            </th>
-            <th></th>
+            
+            <th style="text-align:center";></th>
         </tr>
-     <% int num = 1; %>
+    <% int num = 1; %>
     <% foreach (var item in Model) { %>
-        <tr>
+        
+        <tr> 
             <td>
                 <%: Html.DisplayFor(modelItem => item.Nombre) %>
+              
             </td>
-            <td style="text-align:center";>
+            <td>
                <img src="../Images/<%: num %>.png" />
             </td>
             <td style="text-align:center";>
                 <%: Html.DisplayFor(modelItem => item.Cantidad) %>
             </td>
-          <td style="text-align:center";>
-                <%: Html.DisplayFor(modelItem => item.Precio) %>
+            <td style="text-align:center";>
+                <%: Html.DisplayFor(modelItem => item.Precio)  %> €
             </td>
-              <% num = num + 1; %>
-            <td>
-                <%: Html.ActionLink("Editar", "Edit", new { id=item.Id }) %> |
-                <%: Html.ActionLink("Detalle", "Details", new { id=item.Id }) %> |
-                <%: Html.ActionLink("Borrar", "Delete", new { id=item.Id }) %>
+            <% num = num + 1; %>
+            <td style="text-align:center";>
+                <div class="btn btn-default">
+                    <%: Html.ActionLink ("Añadir", "AddProductCart", new { id = item.Id }, new { @style = "background:url('../Images/anadir.png') no-repeat center right; display:block; height: 30px; width: 50px; padding-right:80px;"})%>
+
+               </div>
             </td>
         </tr>
     <% } %>
